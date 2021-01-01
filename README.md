@@ -12,9 +12,6 @@ Enter a column value between 1-16: 17
 Wrong value. Try again.
 
 Enter a column value between 1-16 : 15
-.
-.
-.
 
            NORTH
 1 0 1 0 0 0 0 1 1 1 0 1 1 0 0
